@@ -13,11 +13,9 @@ required.</p>
 
 
 ```bash
-# install
-$ npm install zero-demo -g
+# start the demo with npx
 
-# run it
-$ zero-demo
+$ npx zero-demo
 ```
 
 
